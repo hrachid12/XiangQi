@@ -9,4 +9,6 @@ Open and run the game.py file with an IDE that supports ANSI printing. The game 
 
 ## Roadmap
 
-There are some known bugs with a few game ending situations. Once those are fixed, the game may be updated using PyGame. 
+There are some known bugs with a few game ending situations. There are also some planned changes with how the game will handle invalid user input coming.
+
+Once those are fixed, the game may be updated using PyGame. 
